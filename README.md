@@ -22,7 +22,7 @@ A step by step series of examples that tell you how to get a development env run
 - Go to https://quandl.com/tools/api in order to create your quandl account and get your API key
 
 
-###Built With Python 3
+### Built With Python 3
 
 * [Python](https://docs.python.org) - The language used
 * [Quandl](https://quandl.com) - Stock Data API calls
